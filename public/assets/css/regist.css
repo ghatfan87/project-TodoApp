@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+
+body{
+  background: rgb(249, 249, 249);
+  font-family: 'PT Sans', sans-serif;
+ 
+}
+h2{
+  padding-top: 1.5rem;
+}
+.card-body {
+  padding: 0 !important;
+}
+form{
+background-image: url(https://1.bp.blogspot.com/-Rr76B01JCp8/X0xxNVtdC2I/AAAAAAAAAY8/N2_2o3iOAaUZ0u_S8KjSQHcm8jyMCYW9QCLcBGAsYHQ/s2048/2.%2BGedung%2B2.jpg);
+background-size: cover;
+}
+
+.card{
+  border: 0.40rem solid #ffffff;
+  top: 10%;
+  min-height: 80vh;
+  
+}
+.form-control{
+  background-color: #ffffff;
+  margin-bottom: 1.10rem;
+
+ 
+}
+
+.form-control:focus {
+
+    color: #000000;
+    background-color: #ffffff;
+    border: 3px solid #da5767;
+    outline: 20px;
+    text-decoration: none;
+    outline: 0;
+  
+
+
+}
+
+
+.btn{
+  padding: 0.6rem 1.2rem;
+  background:#FF4B2B
+
+}
+.btn-primary:hover {
+
+    
+    background-color: #df8c96;
+    border-color: #df8c96;
+  transition: .3s;
+
+}
+
+.kot{
+    margin: 10px 20px -50px 10px;
+    
+}   
+.coy{
+    color: #ffffff;
+
+}
+.k{
+  text-align: center;
+  padding-top: 20px;
+  
+}
